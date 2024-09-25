@@ -1,3 +1,7 @@
+//In programming, let and const are both used to declare variables. 
+//The main difference between them is that (let allows the variable to be reassigned multiple times,) 
+//while (const creates a variable that cannot be reassigned after it has been assigned a value.)
+
 const accountId = 144553
 let accountEmail = "komal@gmail.com"
 var accountPassword = "12345"
